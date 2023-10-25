@@ -307,12 +307,21 @@ namespace Quiz.ConsoleApp
         public static void MenuGetValue()
         {
             string value = "";
+            bool found = false;
             UIManager.GetInput(ref value);
-
+            
             foreach(Blog b in BlogService.GetBlogsByValue(value))
             {
+                found = true;
                 Console.WriteLine(b);
             };
+
+            if (!found)
+            {
+                UIManager.Message("alert", "No Such Blog");
+            }
+
+
 
             App.MENU_STATE = EMenuType.AuthHome;
         }

@@ -13,3 +13,17 @@ C:\Users\II novbe\source\repos\Quiz\Quiz\obj\Debug\net6.0\refint\Quiz.dll
 C:\Users\II novbe\source\repos\Quiz\Quiz\obj\Debug\net6.0\Quiz.pdb
 C:\Users\II novbe\source\repos\Quiz\Quiz\obj\Debug\net6.0\Quiz.genruntimeconfig.cache
 C:\Users\II novbe\source\repos\Quiz\Quiz\obj\Debug\net6.0\ref\Quiz.dll
+C:\Users\Surface\Desktop\Quiz\Quiz\bin\Debug\net6.0\Quiz.exe
+C:\Users\Surface\Desktop\Quiz\Quiz\bin\Debug\net6.0\Quiz.deps.json
+C:\Users\Surface\Desktop\Quiz\Quiz\bin\Debug\net6.0\Quiz.runtimeconfig.json
+C:\Users\Surface\Desktop\Quiz\Quiz\bin\Debug\net6.0\Quiz.dll
+C:\Users\Surface\Desktop\Quiz\Quiz\bin\Debug\net6.0\Quiz.pdb
+C:\Users\Surface\Desktop\Quiz\Quiz\obj\Debug\net6.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surface\Desktop\Quiz\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\Surface\Desktop\Quiz\Quiz\obj\Debug\net6.0\Quiz.AssemblyInfo.cs
+C:\Users\Surface\Desktop\Quiz\Quiz\obj\Debug\net6.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Surface\Desktop\Quiz\Quiz\obj\Debug\net6.0\Quiz.dll
+C:\Users\Surface\Desktop\Quiz\Quiz\obj\Debug\net6.0\refint\Quiz.dll
+C:\Users\Surface\Desktop\Quiz\Quiz\obj\Debug\net6.0\Quiz.pdb
+C:\Users\Surface\Desktop\Quiz\Quiz\obj\Debug\net6.0\Quiz.genruntimeconfig.cache
+C:\Users\Surface\Desktop\Quiz\Quiz\obj\Debug\net6.0\ref\Quiz.dll
